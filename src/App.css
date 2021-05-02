@@ -24,6 +24,18 @@
   color: white;
 }
 
+.App-myRedSquare {
+  background-color: #d44912;
+  width: 50px;
+  height: 50px;
+}
+
+.App-myBlueSquare {
+  background-color: #3612d4;
+  width: 50px;
+  height: 50px;
+}
+
 .App-link {
   color: #61dafb;
 }
