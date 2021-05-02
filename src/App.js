@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div onClick={handleColorChange} className={square}></div>
+        <MySquare />
       </header>
     </div>
   );
